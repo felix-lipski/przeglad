@@ -1,0 +1,25 @@
+body {
+    background-color: #222;
+    color: white;
+}
+
+hr {
+    width: 70%;
+    border-top: solid 1px white;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    background-color: #23a;
+    width: 400px;
+    margin: 10px;
+}
+
+.arists {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
